@@ -1,6 +1,6 @@
 # Onkar Shinde | DevOps Engineer
 
-📍 Navi Mumbai, India | 📧 [your email] | 🔗 [LinkedIn link] | 📞 [phone]
+📍 Navi Mumbai, India | 📧 [shinde80100@gmail.com] | 🔗 [LinkedIn link] | 📞 [phone]
 
 ## Summary
 Aspiring DevOps Engineer with hands-on experience in AWS (EC2, S3, RDS, IAM), Linux, and Shell Scripting. Built Server Health Monitoring System and other cloud automation projects.
